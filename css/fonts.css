@@ -1,0 +1,97 @@
+@font-face {
+	
+	/* Стили для "Exo 2 Semibold" */
+	
+	font-family: "Exo 2 Semibold";
+	src: url("../fonts/Exo 2 Semibold/Exo2-SemiBold-webfont.eot");
+	src: url("../fonts/Exo 2 Semibold/Exo2-SemiBold-webfont.eot?#iefix") format("embedded-opentype"),
+	url("../fonts/Exo 2 Semibold/Exo2-SemiBold-webfont.woff") format("woff"),
+	url("../fonts/Exo 2 Semibold/Exo2-SemiBold-webfont.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {	
+
+    /* Стили для "Exo 2 Regular" */
+	
+	font-family: "Exo 2 Regular";
+	src: url("../fonts/Exo 2 Regular/Exo2-Regular-webfont.eot");
+	src: url("../fonts/Exo 2 Regular/Exo2-Regular-webfont.eot?#iefix") format("embedded-opentype"),
+	url("../fonts/Exo 2 Regular/Exo2-Regular-webfont.woff") format("woff"),
+	url("../fonts/Exo 2 Regular/Exo2-Regular-webfont.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face{	
+
+    /* Стили для "FontAwesome" */
+	
+	font-family: "FontAwesome";
+	src: url("../fonts/FontAwesome/fontawesome-webfont.eot");
+	src: url("../fonts/FontAwesome/fontawesome-webfont.eot?#iefix") format("embedded-opentype"),
+	url("../fonts/FontAwesome/fontawesome-webfont.woff") format("woff"),
+	url("../fonts/FontAwesome/fontawesome-webfont.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {	
+
+    /* Стили для "RobotoRegular" */
+	
+    font-family: "RobotoRegular";
+	src: url("../fonts/RobotoRegular/Roboto-Regular-webfont.eot");
+	src: url("../fonts/RobotoRegular/Roboto-Regular-webfont.eot?#iefix") format("embedded-opentype"),
+	url("../fonts/RobotoRegular/Roboto-Regular-webfont.woff") format("woff"),
+	url("../fonts/RobotoRegular/Roboto-Regular-webfont.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}	
+@font-face {	
+
+    /* Стили для "RobotoMedium" */
+	
+	font-family: "RobotoMedium";
+	src: url("../fonts/RobotoMedium/Roboto-Medium-webfont.eot");
+	src: url("../fonts/RobotoMedium/Roboto-Medium-webfont.eot?#iefix") format("embedded-opentype"),
+	url("../fonts/RobotoMedium/Roboto-Medium-webfont.woff") format("woff"),
+	url("../fonts/RobotoMedium/Roboto-Medium-webfont.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {	
+
+    /* Стили для "RobotoLight" */
+	
+	font-family: "RobotoLight";
+	src: url("../fonts/RobotoLight/Roboto-Light-webfont.eot");
+	src: url("../fonts/RobotoLight/Roboto-Light-webfont.eot?#iefix") format("embedded-opentype"),
+	url("../fonts/RobotoLight/Roboto-Light-webfont.woff") format("woff"),
+	url("../fonts/RobotoLight/Roboto-Light-webfont.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {	
+
+    /* Стили для "Pe-icon-7-stroke" */
+	
+	font-family: "Pe-icon-7";
+	src: url("../fonts/Pe-icon-7/Pe-icon-7-stroke.eot");
+	src: url("../fonts/Pe-icon-7/Pe-icon-7-stroke.eot?#iefix") format("embedded-opentype"),
+	url("../fonts/Pe-icon-7/Pe-icon-7-stroke.woff") format("woff"),
+	url("../fonts/Pe-icon-7/Pe-icon-7-stroke.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {	
+
+    /* Стили для "Font Awesome Regular" */
+	
+	font-family: "FontAwesomeRegular";
+	src: url("../fonts/FontAwesomeRegular/fontawesome-webfont.eot");
+	src: url("../fonts/FontAwesomeRegular/fontawesome-webfont.eot?#iefix") format("embedded-opentype"),
+	url("../fonts/FontAwesomeRegular/fontawesome-webfont.woff") format("woff"),
+	url("../fonts/FontAwesomeRegular/fontawesome-webfont.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
